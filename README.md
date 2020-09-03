@@ -1,10 +1,10 @@
 # Express Note=Taker
 
-A CLI application that renders employee information onto a readable HTML file. 
+A CLI application that can be used to write, save and delete notes. 
 
 ### Description
 
-This project takes information entered into the command line by the user and generates a HTML webpage that displays summaries of each employee.
+This application will use an express backend and save and retrieve note data from a JSON file.
 
 ### Table of Contents
 
@@ -20,15 +20,15 @@ Clone the GitHub repository to your local drive. Run `npm install` to install de
 
 ### Usage
 
-* In GitBash or other command line tool, run `node app` to initiate the program. The first prompts will enquire about the team's manager. 
+* In GitBash or other command line tool, run `node server.js` to initiate the program. This will start the server.
 
-* You will be prompted with a series of questions on employees.
+* If you navigate to index.html, a webpage will be accessed which has fields you can enter your notes into.
 
-* Once you have answered all questions, press No to generate a team.html file in the output folder.
+* Click the "floppy disk" icon to save and the "garbage bin" to delete notes.
 
 ### Video Walkthrough
 
-For a video walkthrough please visit https://github.com/sukediz/Team-Employee-Summary/assets/
+
 
 ### Tests
 
