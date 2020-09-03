@@ -10,6 +10,7 @@ This application will use an express backend and save and retrieve note data fro
 
 * [Installation](#installation)
 * [Usage](#usage)
+* [Deployment](#deployment)
 * [License](#license)
 * [Contributing](#contributing)
 * [Questions](#questions)
@@ -26,13 +27,9 @@ Clone the GitHub repository to your local drive. Run `npm install` to install de
 
 * Click the "floppy disk" icon to save and the "garbage bin" to delete notes.
 
-### Video Walkthrough
+### Deployment
 
-
-
-### Tests
-
-Run `npm test` in command line to test.
+View the Heroku deployment at https://express-notes-taker.herokuapp.com/ 
 
 ### Contributing
 
