@@ -1,4 +1,4 @@
-# Express Note=Taker
+# Express Note-Taker
 
 A CLI application that can be used to write, save and delete notes. 
 
@@ -29,7 +29,7 @@ Clone the GitHub repository to your local drive. Run `npm install` to install de
 
 ### Deployment
 
-View the Heroku deployment at https://express-notes-taker.herokuapp.com/ 
+View the Heroku deployment [here](https://express-notes-taker.herokuapp.com/)
 
 ### Contributing
 
