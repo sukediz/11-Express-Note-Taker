@@ -1,5 +1,7 @@
 # Express Note-Taker
 
+[![](https://img.shields.io/badge/License-ISC-green)](https://opensource.org/licenses/ISC)
+
 ### Description
 
 A client-side application that can be used to write, save and delete notes built using Node.js and Express.
@@ -35,7 +37,7 @@ Contributions are welcome. Feel free to fork the project and create a pull reque
 
 ### License
 
-This project is licensed under the terms of the ISC license. Read more about this license here.
+This project is licensed under the terms of the ISC license. Read more about this license [here](https://opensource.org/licenses/ISC).
 
 ### Questions
 
