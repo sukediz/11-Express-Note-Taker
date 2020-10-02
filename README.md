@@ -1,10 +1,8 @@
 # Express Note-Taker
 
-A CLI application that can be used to write, save and delete notes. 
-
 ### Description
 
-This application will use an express backend and save and retrieve note data from a JSON file.
+A client-side application that can be used to write, save and delete notes built using Node.js and Express.
 
 ### Table of Contents
 
